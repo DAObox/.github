@@ -1,5 +1,3 @@
-[![DAOBox Banner](https://drive.google.com/file/d/1Vspp5UxGMkRhkMJgXzjmPmQfqJtGqc1r/view?usp=sharing)
-
 ## Application
 - [app]()
 - [docs]()
